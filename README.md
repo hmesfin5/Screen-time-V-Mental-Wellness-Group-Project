@@ -11,4 +11,5 @@ Hewitt Mesfin
 
 Our extra credit projects are located in the ExtraProject folder\
 Each project is organized by folders with each team member's name on it\
-Note: Benny's project was the result of a collaboration with Chike Anekwe
+Note: Benny's project was the result of a collaboration with Chike Anekwe and Jonathan Lambright
+
